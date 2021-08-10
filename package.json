@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/SirDev97/WebSockets-Chat-App#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "socket.io": "^4.1.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
